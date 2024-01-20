@@ -1,2 +1,1 @@
-# Githubrespo
-A website that displays the public Github respo belonging to any specific user
+[README.md](https://github.com/nutesh07/Githubrespo/files/13997633/README.md)
